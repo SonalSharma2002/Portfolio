@@ -1,8 +1,8 @@
 # Portfolio
 A Portfolio website made up of HTML , CSS telling about you and your accomplishments .
-# feature
+# Feature
 A Portfolio website is a curated online space that showcase your best work .
-# technology used
+# Technology used
 HTML , CSS 
 VS Code .
 
